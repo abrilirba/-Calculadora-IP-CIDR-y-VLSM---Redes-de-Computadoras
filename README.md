@@ -58,8 +58,9 @@ Proyecto2/
    - El sistema bloquea el cálculo y muestra el mensaje: *"Espacio insuficiente: se necesitan 512 direcciones, pero la red solo tiene 256."*
 
 ## Integrantes del Equipo y Roles
-- **Herrera Pérez Pamela:** Desarrollo de la Calculadora 1 (Módulo CIDR: lógica matemática, validaciones e interfaz).
-- **García García Miguel:** Desarrollo de la Calculadora 1 (Módulo CIDR: cálculo de subredes por prefijo/división, pruebas e interfaz).
 - **Chávez Jurado Abril Aleksandra:** Desarrollo de la Calculadora 2 (Módulo VLSM: interfaz gráfica en Tkinter, tablas de resultados y conexión de eventos).
-- **Haro Molina Luis Elias:** Desarrollo de la Calculadora 2 (Módulo VLSM: algoritmo de ordenamiento descendente, asignación contigua y validaciones).
 - **García Domínguez José Antonio:** Documentación técnica (reporte PDF y README), creación del script ejecutable (`ejecutar.bat`), casos de prueba y organización de entregables.
+- **García García Miguel:** Desarrollo de la Calculadora 1 (Módulo CIDR: cálculo de subredes por prefijo/división, pruebas e interfaz).
+- **Haro Molina Luis Elias:** Desarrollo de la Calculadora 2 (Módulo VLSM: algoritmo de ordenamiento descendente, asignación contigua y validaciones).
+- **Herrera Pérez Pamela:** Desarrollo de la Calculadora 1 (Módulo CIDR: lógica matemática, validaciones e interfaz).
+
